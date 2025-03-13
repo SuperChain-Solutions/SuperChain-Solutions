@@ -47,7 +47,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🤝 Connect With Us
 
-- **Website**: [superchainsolutions.com](http://superchainsolutions.com)
+- **Website**: [[superchainsolutions.com]](https://v0-super-chain-solutions-website.vercel.app/)
 - **Twitter**: [@superchain_tech](https://twitter.com/superchain_tech)
 - **LinkedIn**: [SuperChain Solutions](https://www.linkedin.com/company/superchainsolutions)
 - **GitHub**: [SuperChain Solutions](https://github.com/superchainsolutions)
